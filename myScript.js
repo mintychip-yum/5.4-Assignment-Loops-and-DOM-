@@ -1,8 +1,9 @@
 //This is a loop!
-const names = ["Ed", "John", "Maria", "Eliza", "Burrito", "Harry", "Potter"];
+const fruits = ["Apple", "Banana", "Orange", 
+"Plum", "Strawberry", "Grape",];
 
-for (name of names){
-    console.log(`Hello there ${name}`);
+for (fruit of fruits){
+    console.log(`This is my ${fruit}`);
 }
 
 //This is a while loop
@@ -25,18 +26,11 @@ changeColor.addEventListener('click', function(){
 
 
 //Changes font and color of main header
-{
 const main = document.querySelector('.main');
 text.classList.add =("main");
-}
 
 
 
-//Change color and font size of article
-{
-const article = document.querySelector (".typography")
- text.classList.toggle("size"); 
-}
 
 
 
