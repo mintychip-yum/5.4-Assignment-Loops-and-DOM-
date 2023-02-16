@@ -31,11 +31,13 @@ text.classList.add =("main");
 }
 
 
-const typo = document.querySelector (".typography")
-const push = document.querySelector(''.changeText')
 
-changeText.addEventListener('click', function(){
-    text.classList.toggle("typo");  
-} )
+//Change color and font size of article
+{
+const article = document.querySelector (".typography")
+ text.classList.toggle("size"); 
+}
+
+
 
 
