@@ -1,0 +1,19 @@
+.change{
+    color:aquamarine;
+    font-size: 100px;
+    border: 10px solid black;
+    font-family:cursive;
+}
+
+.typo{
+    color:lightblue;
+    font-size: 70px;
+}
+
+
+.main{
+    color:coral;
+    text-decoration-line: underline;
+    text-decoration-color: lightgreen;
+
+}
